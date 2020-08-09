@@ -1,6 +1,6 @@
 # GRiD-R2-2020
 
-This repo contains the code based used by us in order to complete the Flipkart Grid Challenge Round 2 on the Fashion problem.
+This repo contains the code base used by us in order to complete the Flipkart Grid Challenge Round 2 on the Fashion problem.
 It consists of 4 .ipynb notebooks, to be opened using colab, which are:
 
 1. [DeepFashion_trained.ipynb](https://colab.research.google.com/github/ShivenTripathi/GRiD-R2-2020/blob/master/DeepFashion_trained.ipynb)  
