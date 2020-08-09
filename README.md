@@ -20,7 +20,7 @@ Another end product of our project: a Predictor for each attribute. This relies 
 --------------------------------------------
 Team Name: IITKianDoge  
 Team Members: 
-1. Shiven Tripathi
-2. Rishabh Dugaye
-3. Atharv Singh Patlan  
+1. [Shiven Tripathi](https://github.com/ShivenTripathi)
+2. [Rishabh Dugaye](https://github.com/rishabhd786)
+3. [Atharv Singh Patlan](https://github.com/AthaSSiN) 
 IIT Kanpur
