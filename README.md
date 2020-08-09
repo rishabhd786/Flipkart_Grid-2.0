@@ -26,6 +26,6 @@ Team Members:
 
 IIT Kanpur
 
-##Daywise Trending Products
+## Daywise Trending Products
 
 ![res](./results.gif)
