@@ -1,6 +1,6 @@
 # GRiD-R2-2020
 
-This repo contains the code base used by us in order to complete the Flipkart Grid Challenge Round 2 on the Fashion problem.
+This repo contains the code base used by us in order to complete the Flipkart Grid Challenge Round 2 on the Fashion problem.  
 It consists of 4 .ipynb notebooks, to be opened using colab, which are:
 
 1. [DeepFashion_trained.ipynb](https://colab.research.google.com/github/ShivenTripathi/GRiD-R2-2020/blob/master/DeepFashion_trained.ipynb)  
@@ -18,9 +18,9 @@ This notebook utilizes the mmfashion model in order to make predictions on trend
 Another end product of our project: a Predictor for each attribute. This relies on an XGBoost based regressor and tells us future value of an attribute based on previous time steps’s values.
 
 --------------------------------------------
-Team Name: IITKianDoge
+Team Name: IITKianDoge  
 Team Members: 
 1. Shiven Tripathi
 2. Rishabh Dugaye
-3. Atharv Singh Patlan
+3. Atharv Singh Patlan  
 IIT Kanpur
