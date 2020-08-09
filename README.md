@@ -25,3 +25,7 @@ Team Members:
 3. [Atharv Singh Patlan](https://github.com/AthaSSiN) 
 
 IIT Kanpur
+
+##Daywise Trending Products
+
+![res](./results.gif)
